@@ -2902,14 +2902,53 @@ Question to Jan.
 
 1.COP-5062-- Customer account 2203110266 PROD -- E_CONTRACT -- Invoicing items missing in E_POSTESFAC ->> Call with Emilia Krzeminska.
 2.COP-5104-- "General issue -- The case 2105187622 is locked, counters are not recalculated!" ->> Assign to Luis Yo.
-3.
+3.COP-5229-- "[APR-IN] Invoicing/ Fees parameters to CL from TC " ->> Check. Reply to Junaid with proposition.
+4.COP-4289-- "[NER] - [DE] - [DEFECT] - [Business Process] – special period of services is needed for YMF invoice" ->> Check and sent to COdix.
+5.COP-4733-- "[NER] - [DE] - [DEFECT] - [Business Process] – credit notes not paid out in E_STDRELEVE" ->> Check on PROD. Works fine.
+6.COP-4574-- "[NER] - [DE] - [ASSISTANCE] - [Business Process] – [INVOICING] – Bank statement upload with new CAMT.053 – format " ->> Provide specifications to Jan.
+7.Hotline session -- Help Alexandre Bapst with email issue(still ongoing) and template for letter.Help Wafa with ticket COP-5264
+8.COP-4717-- "[NER] - [DE] - [REGRESSION] - [Business Process] – [INVOICING] – Automated fees update in DC cases did not work as expected anymore" ->> Check on PROD. There is a little buf with the Extranet case creation.It will be checked.
+
+	2104137399
 
 
 TO FAOSI : DLR
 
 
+1.COP-3786-- "Repetition of values/texts in dropdown list under E_INDIV screen (BANKRUPTCY -> EXTERNAL INSOLVENCY)" ->> Fix for AUT on PROD. Reply to Jan and Junaid.
+2.COP-4733-- "[NER] - [DE] - [DEFECT] - [Business Process] – credit notes not paid out in E_STDRELEVE" ->> Check on UAT/PROD. Reply to Kathrin Tex.
+3.COP-5079-- "[NER] - [DE] - [DEFECT] - [Business Process] – LGNF needed for manual invoices" ->> PROD OK. COFAWEB-7112 closed.
+4.COP-4698-- "Data in field Pro-Rata sharing % not automatically filled in screen e_initial" ->> Check specifications. Reply to Marieke.
+5.Hotline session.
+6.COP-5128-- "Cases with more then one CA or LA" ->> Тransfer to Coface. Awaiting transfer to UAT to be checked.
+7.COP-5271-- "Difference in the visualization between the values in E_INDIV_Bankrupty_External Insolvency and E_DOSSIER2" ->> Call with dev and ticket created.
+8.COP-4994-- "[NER] - [DE] - [DEFECT] - [Business Process] – Regression in NER AD Accounting Report" ->> COFAWEB-7242 created.
+9.COP-5229-- "[APR-IN] Invoicing/ Fees parameters to CL from TC " ->> COFAWEB-7243 created.
+10.Call with Jan about tickets 5272 and 4717 (1h)
+
+
+ 5275
 
 
 
+1.COP-4812-- "[NER] - [DE] - [EVO] - [Business Process] – Cession in insured cases with Light and DC-PH mandate wrong" ->> Sent to Codix.
+2.COP-4552-- "E_MAIL -- Checkbox "Read" Cannot be changed by the user part of the same BU as the recipient" ->> Test on Codix side (OK)
+3.Check email from Robert Miller and reply to it(Invoicing)
+4.COP-4994-- "[NER] - [DE] - [DEFECT] - [Business Process] – Regression in NER AD Accounting Report" ->> Closed.
+5./COP-4717-- "[NER] - [DE] - [REGRESSION] - [Business Process] – [INVOICING] – Automated fees update in DC cases did not work as expected anymore" ->>Test on UAT. Back to JAN.
+6.COP-5272-- "[NER] - [DE] - [DEFECT] - [Business Process] – Wrong YMF items in Customer Accounts" ->> Check. COFAWEB-7246 created.
+7.Hotline session -- Helping Robert Miller with the invoicing part
+
+
+1.COP-5272-- "[NER] - [DE] - [DEFECT] - [Business Process] – Wrong YMF items in Customer Accounts ->> Internal discussuion.
+2.COP-5271-- "Difference in the visualisation between the values in E_INDIV_Bankrupty_External Insolvency and E_DOSSIER2" ->> Check on UAT (OK)
+3./COP-5128-- "Cases with more then one CA or LA" ->> Sent to Eric.
+4.COP-4806-- " Country and language not imported at all to the debtor even the data are in the upload file" ->> Sent for development.
+5.COP-5278-- "Visualization issue for Invoice, Credit note, and Payback layouts for BU Coface United States " ->> Tickets on Coface and Codix side created.
+6.COP-5275-- "no possibility to create CA" ->> Check on PROD and UAT. Logs extracted. Sent to Codix.
+7.COP-4834-- "invoicing item DOPCF" ->> Insert new lines in the LOV INV_DISABLE_GENERATION_ITEMS. Comment.
+8.COP-5231-- "[NAR] Dispute Amount not showing in main screen - 2307050331" ->> Fix dispute in case on PROD.
+9.
+"
 
 
