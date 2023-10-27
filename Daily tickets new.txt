@@ -2952,3 +2952,46 @@ TO FAOSI : DLR
 "
 test -123
 
+
+
+
+
+
+1.COP-5278-- "Visualization issue for Invoice, Credit note, and Payback layouts for BU Coface United States " ->> Back to Codix to add language pack for US.
+2.COP-5180-- "Script to switch ON the tick box "ES Follow UP" for the CA's for NLD" ->> UA validation status.
+3.COP-5229-- "[APR-IN] Invoicing/ Fees parameters to CL from TC " ->> Comment.
+4.COP-5207-- "[NER] - [DE] - [DEFECT] - [Business Process] – Validation of several invoicing items not possible on UA" ->> COFAWEB-7214 Closed.
+5.COP-4107-- "Extranet - upload of mass volume of payments via excel file" ->> Sent specification for validation.
+6.COP-4964-- "[NER] - [DE]– Client user needs e-mail if new message arrives in assigned case(s) to them" ->> Check with Teodora. We can  switch it off on PROD.
+7.COP-5299-- "Adjustment in LOV PIECE_HISTO (regarding screen e_chbfhisto screen)" ->> Check on Codix side. Reply to Miguel.
+8.COP-4322-- "[History] [Phone result registration] [GCCD] " ->> Check tickets. Comment to Miguel.
+9.COP-5272-- "[NER] - [DE] - [DEFECT] - [Business Process] – Wrong YMF items in Customer Accounts" ->> Sent to Jan.
+10.Hotline session 4072
+
+
+
+
+
+
+1.COP-5323-- "[FRANCE] - SCRIPT needed to delete wrongly inserted information NEGATIVE END COLLF" ->> COFAWEB-7265 created.
+2.COP-5324-- "representative bank account is on invoices" ->> COFAWEB-7266 created.
+3.COP-4974-- "[NER] - [DE] - [ASSISTANCE] - [Business Process] – [EXTRANET] – Error occurs if we try to parametrize the displayment of specific letters" ->> Help the developer.
+4.COP-7251-- "[NER] - [NL] - [REGRESSION] - [Business Process] - [INVOICING] - Field description for Schadenummer is missing on Dutch invoices for NL to be adjusted" ->>Help a colleague.
+5.COP-3786-- "Repetition of values/texts in dropdown list under E_INDIV screen (BANKRUPTCY -> EXTERNAL INSOLVENCY)" ->> Тransfer to Coface for UAT validation.
+6.COP-5314-- "[NER] - [DE] - [DEFECT] - [Business Process] – missing information in booking entries" ->> COFAWEB-7267 created.
+7.COP-5317-- "meaning of "exam MA monitoring CRD" ->> Check and reply to Miguel.
+8.COP-4717-- [NER] - [DE] - [REGRESSION] - [Business Process] – [INVOICING] – Automated fees update in DC cases did not work as expected anymore ->> Check PROD and tickets. Reply to Jan.
+9.
+
+
+
+1.COP-4717-- "[NER] - [DE] - [REGRESSION] - [Business Process] – [INVOICING] – Automated fees update in DC cases did not work as expected anymore" -- Back to Codix.
+2.COP-4960-- "[NER] - [DE] - [DEFECT] - [Business Process] – [INVOICING] - External costs paid from debtor before we have entered them in COP" ->> Comment.
+3.COP-5062-- "CA CL 2203110266 no INV posts" ->> Sent to Codix.
+4.COP-5279-- "[NER] - [DE] - [REGRESSION] - [Business Process] – file is set to manual when modifying ECA procedure" ->> Check on PROD,UAT. Reply to Laura.
+5.COP-5284-- "[NER] - [NL] - [REGRESSION] - [Business Process] - [INVOICING] - Field description for Schadenummer is missing on Dutch invoices for NL to be adjusted" ->> Fixed on UAT. SR for fix on PROD.
+6.COP-5324-- "representative bank account is on invoices" ->> Тransfer to Coface.
+7.COP-4322-- "[History] [Phone result registration] [GCCD]" ->> Sent to Codix after the meeting.
+8.COP-4717-- "[NER] - [DE] - [REGRESSION] - [Business Process] – [INVOICING] – Automated fees update in DC cases did not work as expected anymore" ->> Assign to Jan.
+9.COP-5249-- "[NER] - [DE] - [ADJ] - [LETTERS] - [BUSINESS Process] - Letter LE DB DE REMIND 1 SPL / Statement of Account " ->> Check specification. COFAWEB-7277 created.
+10.
